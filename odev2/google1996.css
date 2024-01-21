@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    height: 45rem;
+    margin: 3%;
+}
+
+#search{
+    background-color: rgb(210, 210, 210);
+}
+
+#text-area{
+    width: 17rem;
+}
+
+#sec-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#sec1{
+    background-color: aqua;
+    width: 35rem;
+    height: 10rem;
+}
+
+#sec2{
+    background-color: rgb(187, 255, 255);
+    width: 35rem;
+    height: 10rem;
+}
+
+#sec3{
+    background-color: rgb(63, 86, 86);
+    width: 35rem;
+    height: 10rem;
+}
